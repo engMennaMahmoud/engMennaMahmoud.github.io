@@ -10,7 +10,7 @@ You’d usually find me listening to music, watching series in my spare time. I 
 
 ---
 
-### This is a header
+### What is Outreachy?
 
 #### Some T-SQL Code
 
