@@ -1,10 +1,12 @@
 ## Outreachy Blog - Introducing myself!
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Hello everyone, Thanks for dropping by!
 
-If the file does not start with a header, then the post title will be derived from the filename.
+I am Menna, an Outreachy intern. I am from Egypt. My interest usually lies in C/C++ programming and contributing to open source.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+I have been accepted as an Outreachy intern for May to August 2023 round. I'm interning for Linux Kernel Project "Improving Linux Security via Architectural Capabilities (Morello-Linux)". I am looking forward to having a great experience this summer.
+
+You’d usually find me listening to music, watching series in my spare time. I am a music lover.
 
 ---
 
