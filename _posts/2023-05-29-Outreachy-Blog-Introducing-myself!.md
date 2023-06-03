@@ -12,23 +12,11 @@ You’d usually find me listening to music, watching series in my spare time. I 
 
 ### What is Outreachy?
 
-#### Some T-SQL Code
+Outreachy provides three-month internships for people from groups traditionally underrepresented in tech. Interns are paid a stipend of $7,000. Both interns and mentors work remotely. This program is conducted twice a year.
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
+#### My core values are:
 
-#### Some PowerShell Code
+- Curiosity - I value curiosity, the desire to learn or know about what interests me drives me to achieve my goal.
+- Growth - I think investing a considerable amount of time and energy in one's personal development is needed for one's growth.
+- Compassion - I value compassion, it drives our commitment to serve others with empathy and respect.
 
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
