@@ -14,7 +14,7 @@ You’d usually find me listening to music, watching series in my spare time. I 
 
 Outreachy provides three-month internships for people from groups traditionally underrepresented in tech. Interns are paid a stipend of $7,000. Both interns and mentors work remotely. This program is conducted twice a year.
 
-#### My core values are:
+### My core values are:
 
 - Curiosity - I value curiosity, the desire to learn or know about what interests me drives me to achieve my goal.
 - Growth - I think investing a considerable amount of time and energy in one's personal development is needed for one's growth.
