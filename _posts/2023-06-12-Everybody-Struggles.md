@@ -1,3 +1,5 @@
+## Outreachy Blog - Everybody Struggles!
+
 This post is a way to express publicly that everybody struggles.
 
 Even the task of writing about it is challenging to me, because I did not use to communicating about things that stuck me. So, just this post was something that struggled me. I should write in a language different from mine, and I should expose what makes me feel uncomfortable.
