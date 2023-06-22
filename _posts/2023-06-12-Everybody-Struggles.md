@@ -1,10 +1,14 @@
 ## Outreachy Blog - Everybody Struggles!
 
+
 This post is a way to express publicly that everybody struggles.
 
 Even the task of writing about it is challenging to me, because I did not use to communicating about things that stuck me. So, just this post was something that struggled me. I should write in a language different from mine, and I should expose what makes me feel uncomfortable.
 
-Starting the Outreachy internship was a nice experience. I started to see Linux OS in a different form. The application process was my first struggle. I should make some contributions, but I did not know how relevant these contributions should be. I followed the Outreachy tutorial: https://kernelnewbies.org/OutreachyIntro. The First Steps tutorial: https://kernelnewbies.org/FirstKernelPatch
+Starting the Outreachy internship was a nice experience. I started to see Linux OS in a different form. The application process was my first struggle. 
+I should make some contributions, but I did not know how relevant these contributions should be. 
+I followed the Outreachy tutorial: https://kernelnewbies.org/OutreachyIntro. 
+The First Steps tutorial: https://kernelnewbies.org/FirstKernelPatch
 
 Once finished, my first patches were revised and I realize that I did not even know how to describe in a what I did (how could I write good commit messages?).
 Then, I talked with the mentors and got help. I improved my patches, its descriptions and resent them… One more issue… I did not produce good changes in the code however, they were a good starting point. Another update, and resent… ACCEPTED!
