@@ -7,6 +7,7 @@ Even the task of writing about it is challenging to me, because I did not use to
 
 Starting the Outreachy internship was a nice experience. I started to see Linux OS in a different form. The application process was my first struggle. 
 I should make some contributions, but I did not know how relevant these contributions should be. 
+
 I followed the Outreachy tutorial: https://kernelnewbies.org/OutreachyIntro. 
 The First Steps tutorial: https://kernelnewbies.org/FirstKernelPatch
 
