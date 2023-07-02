@@ -1,7 +1,7 @@
 Yayyy five weeks as an Outreachy Intern already 🎉. This week marks my fifth week as an Outreahcy intern under Linux Kernel working on improving Linux Security via Architectural Capabilities (Morello-Linux). So you might be wondering what is Morello-Linux.
 
 
-##What is Morello-Linux?
+## What is Morello-Linux?
 
 Morello is a research program with the potential to radically change the way we design and program processors in the future to improve built-in security. Funded by the UK government’s Industrial Strategy Challenge Fund (ISCF) Digital Security by Design (DSbD) program and led by Arm, Morello has a transformative goal to radically update the security foundations of the digital computing infrastructure that underpins the entire global economy. The main anticipated output of DSbD is a technology platform prototype, designed and produced by Arm: The Morello evaluation board.
 
@@ -13,7 +13,7 @@ This new approach to cybersecurity requires extensive exploration work and invol
 
 Using this new technology, Arm has designed a prototype system-on-chip (SoC) and a development board, called the Morello board. This will enable industry and academic partners to test the new prototype architecture in real-world use cases.
 
-##What is my role during the internship?
+## What is my role during the internship?
 
 Improving Linux Security via Architectural Capabilities (Morello-Linux)
 
@@ -25,6 +25,6 @@ My role is to contribute to improving the security of Linux kernel subsystems wi
 (3) hardening the kernel's security-sensitive subsystems.
 (4) analyzing the security of the current state of the Morello-Linux. 
 
-##Conclusion
+## Conclusion
 
 By understanding this project, you will be better equipped to navigate the technical challenges of working on the Morello and CHERI and contribute to their development.
